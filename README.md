@@ -18,6 +18,11 @@
 1. 本软件需要配合104.0.105+版本的Chrome浏览器使用，其他版本未经过测试。
 
 2. `selenium.py` 和 `UI.py` 暂时没有作用，与Selenium和用户界面相关的代码已经整合到 `main.py` 中。
+   
+**Python库依赖：**
+您可以使用以下命令一键安装所需要的库
+```bash
+pip install -r requirements.txt
 
 **未来更新计划：**
 
