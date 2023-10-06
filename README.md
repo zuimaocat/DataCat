@@ -33,6 +33,7 @@ https://registry.npmmirror.com/-/binary/chromedriver/104.0.5112.79/chromedriver_
 pip install -r requirements.txt
 ```
 4.Python版本：V3.8.8
+
 **未来更新计划：**
 
 1. 从多个网站中获取数据，使用正则表达式或其他方法匹配数据，并且使用多线程进行高效采集。
