@@ -23,6 +23,7 @@
 您可以使用以下命令一键安装所需要的库
 ```bash
 pip install -r requirements.txt
+```
 
 **未来更新计划：**
 
