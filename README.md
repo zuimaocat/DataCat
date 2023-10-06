@@ -18,13 +18,8 @@
 
 1. 本软件需要配合104.0.105+版本的Chrome浏览器使用，其他版本未经过测试
 2. `selenium.py` 和 `UI.py` 暂时没有作用，与Selenium和用户界面相关的代码已经整合到 `main.py` 中。
-   
-**Python库依赖：**
-您可以使用以下命令一键安装所需要的库
-```bash
-pip install -r requirements.txt
-```
-**依赖软件下载链接**
+
+**运行环境**
 
 1.谷歌浏览器
 ```bash
@@ -34,7 +29,11 @@ https://www.slimjet.com/chrome/download-chrome.php?file=files%2F104.0.5112.102%2
 ```bash
 https://registry.npmmirror.com/-/binary/chromedriver/104.0.5112.79/chromedriver_win32.zip
 ```
-
+3.依赖的Python库
+```bash
+pip install -r requirements.txt
+```
+4.Python版本：V3.8.8
 **未来更新计划：**
 
 1. 从多个网站中获取数据，使用正则表达式或其他方法匹配数据，并且使用多线程进行高效采集。
